@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.ssafy.vue.mapper.DibMapper">
+	<select id="selectOne" parameterType="int" resultType="com.ssafy.vue.dto.Dibs">
+		select *
+		from dibs
+		where dibsNo = #{dibsNo}
+	</select>
+	<select id="selectList" parameterType="String" resultType="com.ssafy.vue.dto.Dibs">
+		select *
+		from dibs
+		where userid = #{userid}
+	</select>
+	<insert id="insert" parameterType="com.ssafy.vue.dto.Dibs">
+		insert into dibs
+		(userid, aptName, la, ma, buildyear, floor, address, addressCode, serialNumber)
+		values(#{userid}, #{aptName}, #{la}, #{ma}, #{buildyear}, #{floor}, #{address}, #{addressCode}, #{serialNumber})
+	</insert>
+	<delete id="delete" parameterType="Dibs">
+		delete from dibs
+		where serialNumber = #{serialNumber} and floor = #{floor}
+	</delete>	
+</mapper>

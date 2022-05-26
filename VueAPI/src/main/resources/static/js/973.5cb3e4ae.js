@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_pjt"]=self["webpackChunkvue_pjt"]||[]).push([[973],{6973:function(e,n,t){t.r(n),t.d(n,{default:function(){return v}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("header-nav"),t("router-view")],1)},r=[],a=t(3346),l={name:"newsView",components:{HeaderNav:a.Z}},s=l,c=t(1001),i=(0,c.Z)(s,u,r,!1,null,null,null),v=i.exports}}]);
+//# sourceMappingURL=973.5cb3e4ae.js.map

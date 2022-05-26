@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_pjt"]=self["webpackChunkvue_pjt"]||[]).push([[362],{1362:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("header-nav"),t("router-view")],1)},r=[],a=t(3346),l={name:"notifyView",components:{HeaderNav:a.Z}},c=l,i=t(1001),s=(0,i.Z)(c,u,r,!1,null,null,null),f=s.exports}}]);
+//# sourceMappingURL=362.63413069.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_pjt"]=self["webpackChunkvue_pjt"]||[]).push([[900],{86900:function(e,n,t){t.r(n),t.d(n,{default:function(){return p}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("header-nav"),t("router-view")],1)},r=[],a=t(43346),l={name:"aptView",components:{HeaderNav:a.Z}},c=l,s=t(1001),i=(0,s.Z)(c,u,r,!1,null,null,null),p=i.exports}}]);
+//# sourceMappingURL=900-legacy.45b69660.js.map

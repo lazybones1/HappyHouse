@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_pjt"]=self["webpackChunkvue_pjt"]||[]).push([[753],{753:function(e,n,t){t.r(n),t.d(n,{default:function(){return o}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("header-nav"),t("router-view")],1)},r=[],a=t(3346),l={name:"boardView",components:{HeaderNav:a.Z}},c=l,s=t(1001),i=(0,s.Z)(c,u,r,!1,null,null,null),o=i.exports}}]);
+//# sourceMappingURL=753.da44c9d1.js.map

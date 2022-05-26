@@ -1,0 +1,23 @@
+vue_pjt/.DS_Store
+vue_pjt/node_modules
+vue_pjt/dist
+
+
+# local env files
+vue_pjt//.env.local
+vue_pjt//.env.*.local
+
+# Log files
+vue_pjt/npm-debug.log*
+vue_pjt/yarn-debug.log*
+vue_pjt/yarn-error.log*
+vue_pjt/pnpm-debug.log*
+
+# Editor directories and files
+vue_pjt/.idea
+vue_pjt/.vscode
+vue_pjt/*.suo
+vue_pjt/*.ntvs*
+vue_pjt/*.njsproj
+vue_pjt/*.sln
+vue_pjt/*.sw?
